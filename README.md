@@ -20,3 +20,4 @@
   - [인터페이스와 패키지](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
   - [예외처리](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
   - [java.lang 패키지](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/java.lang%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
+  - [간단한 알고리즘 예제](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%98%88%EC%A0%9C.md)

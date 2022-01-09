@@ -27,5 +27,8 @@
     + [java.util 패키지](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/java.util%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)  
     + [컬렉션 프레임워크](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
     + [java.io 바이트 입출력](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/java.io%20%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
++ Language Track (파이썬)
+  - 초급 프로그래밍(1)
+    * [파이썬의 이해](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 + 싸피
   - [OT](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/readme.md)

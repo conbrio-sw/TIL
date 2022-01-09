@@ -32,3 +32,5 @@
     * [파이썬의 이해](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 + 싸피
   - [OT](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/readme.md)
+  - [게임코딩](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/%EA%B2%8C%EC%9E%84%20%EC%BD%94%EB%94%A9.md)
+  - [로봇퀘스트](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/RobotQuest.md)

@@ -37,6 +37,11 @@
     * [흐름과 제어-if](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%9D%90%EB%A6%84%EA%B3%BC%20%EC%A0%9C%EC%96%B4-if.md)
     * [흐름과 제어-반복](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%9D%90%EB%A6%84%EA%B3%BC%20%EC%A0%9C%EC%96%B4-%EB%B0%98%EB%B3%B5.md)
     * [함수의 기초](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%95%A8%EC%88%98%EC%9D%98%20%EA%B8%B0%EC%B4%88.md)
+    * [내장함수](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
+    * [예외처리](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+  - 초급 프로그래밍(2)
+    * [객체지향](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+  - 
 + 싸피
   - [OT](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/readme.md)
   - [게임코딩](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/%EA%B2%8C%EC%9E%84%20%EC%BD%94%EB%94%A9.md)

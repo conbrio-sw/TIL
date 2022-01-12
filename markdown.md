@@ -92,7 +92,7 @@
 
 
 ![220112 7기 SW 스타트캠프 - 6일차 _ SSAFY 人 Sight & Track별 학습안내 - YouTube - Chrome 2022-01-12 오전 9_59_52](markdown.assets/220112 7기 SW 스타트캠프 - 6일차 _ SSAFY 人 Sight & Track별 학습안내 - YouTube - Chrome 2022-01-12 오전 9_59_52.png)
-
+[ㅋㅋ](markdown.assets/220112 7기 SW 스타트캠프 - 6일차 _ SSAFY 人 Sight & Track별 학습안내 - YouTube - Chrome 2022-01-12 오전 9_59_52.png)
 ## 주의사항
 
 1. 이미지 업로드 전 저장하기

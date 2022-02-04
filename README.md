@@ -42,6 +42,8 @@
   - 초급 프로그래밍(2)
     * [객체지향](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md) 
     * [모듈과 패키지](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%EB%AA%A8%EB%93%88%EA%B3%BC%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
+  - 일반
+    - [0204_과목평가 대비](Language Track (파이썬)/0204_과목평가 대비.md)
 + 싸피
   + OT  
     - [OT](https://github.com/conbrio-sw/TIL/blob/main/%EC%8B%B8%ED%94%BC/OT/readme.md)

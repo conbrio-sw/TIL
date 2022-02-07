@@ -29,7 +29,8 @@
     + [java.io 바이트 입출력](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(JAVA)/java.io%20%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
   - 일반
     - [자바 알고리즘](Language Track (JAVA)/0204알고리즘.md)
-    - 
+    - [자바 복습 01](Language Track (JAVA)/0204.md)
+    - [자바 복습 02](Language Track (JAVA)/0207.md)
 + Language Track (파이썬)
   - 초급 프로그래밍(1)
     * [파이썬의 이해](https://github.com/conbrio-sw/TIL/blob/main/Language%20Track%20(%ED%8C%8C%EC%9D%B4%EC%8D%AC)/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)

@@ -109,6 +109,8 @@ Hyper Text Transfer Protocol
   - TCP / IP 연결을 새로 맺어야 함 - 3 way handshake 시간 추가
   - 웹 브라우저로 사이틀 요청하면 HTML 뿐만 아니라 자바스크립트, css, 추가 이미지 등등 수많은 자원이 함께 다운로드
   - 지금은 HTTP 지속 연결(persistent connections)로 문제 해결
+    - 원래는 HTML, 자바스크립트, 이미지 응답 모두 따로 연결, 종료했지만
+    - 지속연결을 통해 연결시작후 모든 요청이 끝나면 종료
   - HTTP/2, HTTP/3에서 더 많은 최적화
   - 초기에는 연결, 종료 낭비
   - 지속 연결로 최적화

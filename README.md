@@ -62,6 +62,8 @@
     + [CLI](https://github.com/conbrio-sw/TIL/blob/main/Start_Camp/CLI.md)
     + [Why_Git&Github](https://github.com/conbrio-sw/TIL/blob/main/Start_Camp/Why_Git%26Github.md)
     + [GIT](https://github.com/conbrio-sw/TIL/blob/main/Start_Camp/GIT.md)
+  + 일타싸피
+    + [일타싸피](싸피/일타싸피/일타싸피 구상.md)
 
 - 백준 알고리즘
   - [0125](algo/0125/0125.md)
